@@ -14,8 +14,23 @@
 // }
 // squareNumber(3)
 
+
+
 //STEP 3
+// function percentOf(num1, num2) {
+//     let result = (num1 / num2) * 100
+//     console.log(num1 + " is " + result + "% of " + num2 + ".")
+//     return result
+// }
+// percentOf(2, 4)
 
 //STEP 4
+// function findModulus(num1, num2) {
+//     let result = num1 % num2
+//     console.log(result + " is the modulus of " + num1 + " and " + num2 + ".")
+//     return result
+// }
+// findModulus(4,10)  // returns 4 is the modulus of 4 and 10.
+
 
 //STEP 5
